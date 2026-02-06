@@ -20,3 +20,10 @@ let product = 4*2 // 8
 
 console.log(10>5); // true
 console.log(10 == 5); // false
+
+
+// Logical Operators (for conditions)
+
+// && (AND)
+// || (OR)
+// ! (NOT)
