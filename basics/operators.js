@@ -27,3 +27,6 @@ console.log(10 == 5); // false
 // && (AND)
 // || (OR)
 // ! (NOT)
+
+console.log(true && false); // false
+console.log(true || false); // true
